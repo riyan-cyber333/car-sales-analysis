@@ -92,4 +92,4 @@ Based on the analysis, the following recommendations can help improve business p
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Screenshot 2025-11-01 155232.png)
