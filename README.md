@@ -92,4 +92,4 @@ Based on the analysis, the following recommendations can help improve business p
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](Screenshot 2025-11-01 155232.png)
+![Sales Dashboard](https://github.com/riyan-cyber333/car-sales-analysis/blob/main/Screenshot%202025-11-01%20155232.png)
